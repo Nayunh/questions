@@ -1,0 +1,17 @@
+(venv) H:\Programme\JetBrains\FIFA_Team_Builder>pip install requests --user
+Collecting requests
+  Using cached https://files.pythonhosted.org/packages/51/bd/23c926cd341ea6b7dd0b2a00aba99ae0f828be89d72b2190f27c11d4b7fb/requests-2.22.0-py2.py3-none-any.whl
+Collecting idna<2.9,>=2.5 (from requests)
+  Using cached https://files.pythonhosted.org/packages/14/2c/cd551d81dbe15200be1cf41cd03869a46fe7226e7450af7a6545bfc474c9/idna-2.8-py2.py3-none-any.whl
+Collecting chardet<3.1.0,>=3.0.2 (from requests)
+  Using cached https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl
+Collecting urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 (from requests)
+  Using cached https://files.pythonhosted.org/packages/e6/60/247f23a7121ae632d62811ba7f273d0e58972d75e58a94d329d51550a47d/urllib3-1.25.3-py2.py3-none-any.whl
+Collecting certifi>=2017.4.17 (from requests)
+  Using cached https://files.pythonhosted.org/packages/69/1b/b853c7a9d4f6a6d00749e94eb6f3a041e342a885b87340b79c1ef73e3a78/certifi-2019.6.16-py2.py3-none-any.whl
+Installing collected packages: idna, chardet, urllib3, certifi, requests
+  The script chardetect.exe is installed in 'C:\Users\xlsak\AppData\Roaming\Python\Python37\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed certifi-2019.6.16 chardet-3.0.4 idna-2.8 requests-2.22.0 urllib3-1.25.3
+
+(venv) H:\Programme\JetBrains\FIFA_Team_Builder>
